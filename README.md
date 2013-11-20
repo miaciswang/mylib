@@ -1,4 +1,0 @@
-mylib
-=====
-
-testing library
