@@ -1,2 +1,4 @@
-This is the testing library for the book: Programming Pearls
+This includes the code for the book: Programming Pearls
 Author: Wang Gang
+
+Prerequisite: Gtest, Glog 
